@@ -1,8 +1,6 @@
 requests
 moviepy==1.0.3
 yt_dlp
-uuid
-glob
 torch
 transformers
 numpy
