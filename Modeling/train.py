@@ -1,9 +1,3 @@
-"""
-Accent Classifier Model Training Script (Version 3)
-This script trains a Wav2Vec2 model to classify accents in speech audio using the validated.tsv dataset.
-Includes more accent categories and proper CUDA usage.
-"""
-
 import os
 import pandas as pd
 import numpy as np
