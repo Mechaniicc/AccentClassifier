@@ -1,0 +1,12 @@
+requests
+moviepy==1.0.3
+urllib
+yt_dlp
+uuid
+glob
+torch
+transformers
+numpy
+librosa
+streamlit
+matplotlib
